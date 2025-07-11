@@ -4,7 +4,7 @@ import Features from './components/Features';
 import Plans from './components/Plans';
 import Footer from './components/Footer';
 import Painel from './pages/Painel';
-import Menu from './pages/Menu';
+import Menu from './components/Menu';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
